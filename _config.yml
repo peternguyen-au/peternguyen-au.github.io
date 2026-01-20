@@ -1,1 +1,37 @@
+# Site settings
+title: Peter Nguyen
+description: Software Engineer | Full Stack Developer | Problem Solver
+author: Peter Nguyen
+email: your.email@example.com
+url: "https://peternguyen-au.github.io"
+baseurl: ""
+
+# Social media links
+github_username: peternguyen-au
+linkedin_username: your-linkedin-username
+twitter_username: your-twitter-username
+
+# Build settings
 theme: jekyll-theme-cayman
+markdown: kramdown
+highlighter: rouge
+
+# Collections for blog posts
+collections:
+  posts:
+    output: true
+    permalink: /blog/:title/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+# Exclude files from build
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
