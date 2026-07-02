@@ -10,7 +10,9 @@ title: Home
 </div>
 
 # Peter Nguyen
-**Clinical Data Analyst | Health Data Scientist | Analytics Consultant**
+**Data Professional — Health Data Science · Clinical Informatics · Analytics Consulting**
+
+*Bridging complex problems and actionable insight*
 
 <div class="quick-links">
   <a href="#about">About</a> •
@@ -28,15 +30,19 @@ title: Home
 
 ## About Me {#about}
 
-Health and government data analyst with 6+ years of progressive experience spanning analytics consulting (Quantium), national health statistics (Australian Institute of Health and Welfare), academic research (University of Melbourne), and clinical informatics (Murdoch Children's Research Institute / Royal Children's Hospital).
+I'm a data professional with six years of experience across government, commercial, and hospital settings, now exploring the next chapter in digital health, healthtech, and beyond.
 
-I build production-grade data pipelines, EMR-based reports, executive dashboards, and statistical models that translate complex clinical and population data into decisions for senior government, hospital, and commercial stakeholders.
+My background spans biomedicine, population health data, analytics consulting (Quantium), national health statistics (Australian Institute of Health and Welfare), academic research (University of Melbourne), and clinical informatics (Murdoch Children's Research Institute / Royal Children's Hospital) — but the real strength I've developed is understanding how data flows through complex organisations and systems, from capture through to insight. I'm equally comfortable with data analysis, engineering, and science — what matters most is solving problems that have genuine impact.
+
+What drives me is the bridge between stakeholder needs and data reality: understanding workflows and constraints, breaking down complex problems, iterating with teams, and delivering solutions that actually land and get used.
+
+> 💡 **I'm currently taking some time to reset and build, before picking up something new from August 2026.** Always happy to connect — feel free to [reach out for a chat](#contact).
 
 **Quick Facts:**
 - 🎓 Master of Science (Health Data Science), UNSW — 86 WAM (High Distinction)
-- 🏥 Epic-certified (Cogito, Caboodle, Clarity, Clinical Data Models) — working in the Parkville Epic EMR daily
-- 📜 Certified Health Informatician Australasia (CHIA)
-- 📊 6+ years across consulting, government, and clinical research
+- 🏥 Epic-certified (Cogito, Caboodle, Clarity, Clinical Data Models)
+- 📜 Certified Health Informatician Australasia (CHIA) · Microsoft Certified: Azure Fundamentals
+- 📊 6 years across consulting, government, and clinical research
 - 🌏 Based in Melbourne, Australia
 
 ---
@@ -44,36 +50,37 @@ I build production-grade data pipelines, EMR-based reports, executive dashboards
 ## Professional Experience {#experience}
 
 ### Clinical Data Analyst, Centre for Health Analytics
-**Royal Children's Hospital & Murdoch Children's Research Institute, Parkville** | *Dec 2024 – Present*
+**Royal Children's Hospital & Murdoch Children's Research Institute, Parkville** | *Dec 2024 – Jun 2026*
 
 The Centre for Health Analytics is a partnership between RCH and MCRI providing data-analytics services to clinicians and researchers across the Parkville campus.
 
-- Extract and analyse clinical data from the Parkville Epic EMR and other source systems for secondary use in clinical care, quality improvement, and research
-- Design, develop, review, and optimise multi-table SQL queries against EMR data to answer cohort, outcome, and operational questions for clinicians and researchers
-- Built and maintain a suite of Epic EMR Reports, Epic Dashboards, and Power BI views that support clinical workflows, validate data capture, and close audit / improvement loops
-- Partner with clinicians, researchers, and technical experts to map clinical workflows, document data-capture processes, and ensure appropriate use and interpretation of clinical data
-- Deliver in-person and online training to technical and non-technical stakeholders, presenting technical concepts in plain language
+- Extracted and analysed clinical data from the Parkville Epic EMR and other source systems for secondary use in clinical care, quality improvement, and research
+- Designed, developed, reviewed, and optimised multi-table SQL queries against EMR data to answer cohort, outcome, and operational questions for clinicians and researchers
+- Built and maintained a suite of Epic EMR Reports, Epic Dashboards, and Power BI views that support clinical workflows, validate data capture, and close audit / improvement loops
+- Partnered with clinicians, researchers, and technical experts to map clinical workflows, document data-capture processes, and ensure appropriate use and interpretation of clinical data
+- Delivered in-person and online training to technical and non-technical stakeholders, presenting technical concepts in plain language
 
-### Analytics Consultant
-**Quantium, Melbourne / Sydney** | *Oct 2021 – Nov 2024*
+### Sales Operations & Capability Analyst — wiqConsumer (FMCG)
+**Quantium, Melbourne** | *Jan 2024 – Nov 2024*
 
-Quantium is one of Australia's largest data-science consultancies. Worked across the Health & Government and Consumer (FMCG) practices on analytics, dashboarding, pipeline automation, and data strategy.
+- Enhanced sales tools, systems, and processes used by FMCG Sales and Client Partnership teams, supporting both immediate sales growth and longer-term competitive advantage
+- Monitored and analysed sales and revenue forecasts, providing actionable insights to senior consultants and executives that informed revenue-strategy refinements
 
-**Health & Government practice:**
+### Analyst / Consultant — Health and Government
+**Quantium, Melbourne** | *Oct 2021 – Dec 2023*
+
+Quantium is one of Australia's largest data-science consultancies. Worked in the Health & Government practice on analytics, dashboarding, pipeline automation, and data strategy.
+
 - Developed the data strategy and governance framework for a landmark precision-oncology initiative spanning multi-site clinical and laboratory sources (10–30 source systems, millions of patient-level records)
 - Automated mixed daily and near-real-time data pipelines for the Victorian Department of Health, handling high-volume health and COVID-19 data feeds during the state's response
 - Built and maintained a suite of 7+ Power BI dashboards used by department-wide executive and ministerial-office audiences for COVID-19 ICU / ward / bed-capacity decisions, workforce / PPE / supply-chain planning, and testing operations
 - Enhanced RShiny dashboards used by the Commonwealth Department of Health to investigate Medicare non-compliance
 - Led and mentored a team of 2–3 junior analysts; managed work planning, code review, and insights development, briefing Director / Branch-head-level sponsors throughout
 
-**Consumer (FMCG) practice:**
-- Enhanced sales tools, systems, and processes used by FMCG Sales and Client Partnership teams
-- Monitored and analysed sales and revenue forecasts, providing actionable insights to senior consultants and executives
-
 *Tech: R, SQL, Teradata, Azure DevOps, Azure (Synapse, Data Factory), Snowflake, Power BI, RShiny*
 
-### Senior Data Analyst and Project Officer
-**Australian Institute of Health and Welfare (AIHW), Screening Analysis and Monitoring Unit** | *Mar 2020 – Oct 2021*
+### Senior Data Analyst — Screening Analysis and Monitoring Unit
+**Australian Institute of Health and Welfare (AIHW), Canberra** | *Aug 2020 – Oct 2021*
 
 Monitored and reported on Australia's three population-based cancer-screening programs (BreastScreen Australia, National Cervical Screening Program, National Bowel Cancer Screening Program) for the Commonwealth Department of Health.
 
@@ -81,6 +88,11 @@ Monitored and reported on Australia's three population-based cancer-screening pr
 - Contributed to formal government reports and resolved numerous ad-hoc data requests from external stakeholders
 - Supported the data-quality and governance assessment for the National Cancer Screening Register
 - Prepared consultation papers and presentations distilling published reports into briefings for senior sponsors at the Commonwealth Department of Health
+
+### Data Analyst / Project Officer — Screening Analysis and Monitoring Unit
+**Australian Institute of Health and Welfare (AIHW), Canberra** | *Mar 2020 – Aug 2020*
+
+- Joined the Screening Analysis and Monitoring Unit supporting national cancer-screening reporting; promoted to Senior Data Analyst within six months
 
 ### Research Assistant
 **Cancer in Primary Care Research Group, Melbourne Medical School, University of Melbourne** | *Jan 2019 – Mar 2020*
@@ -94,6 +106,11 @@ Monitored and reported on Australia's three population-based cancer-screening pr
 **Integrated Mental Health Research Group, Melbourne Medical School, University of Melbourne** | *Aug 2018 – Jan 2019*
 
 - Conducted participant follow-up, interviews, and data collection for two NHMRC- and Commonwealth-funded RCTs: *Link Me* (stepped mental-health care) and *Target D* (depression-management decision-support tool)
+
+### Earlier Roles
+
+- **Weployee — Weploy, Melbourne** (*Jan 2018 – Jan 2019*): supported start-ups and small businesses with data entry (Xero, Excel), booking systems, and event operations
+- **Pharmacy Assistant — Chemist Warehouse, Derrimut** (*Feb 2015 – Feb 2017*): customer-facing retail pharmacy role alongside full-time study
 
 ---
 
@@ -162,7 +179,7 @@ Recruited 313 patients with a 95% recruitment rate to study how to communicate t
 ## Education {#education}
 
 ### Master of Science — Health Data Science
-**Centre for Big Data Research in Health, Faculty of Medicine, UNSW** | *2021 – 2025*
+**Centre for Big Data Research in Health, Faculty of Medicine, UNSW** | *2021 – 2025 (completed April 2025)*
 
 - 86 WAM (High Distinction) across coursework in biostatistics, data management, statistical modelling, and machine learning
 - Dissertation: improving exercise-physiology outcomes through reinforcement learning
@@ -185,6 +202,7 @@ Recruited 313 patients with a 95% recruitment rate to study how to communicate t
 
 - **Epic certifications** — Cogito, Caboodle, Clarity, and Clinical Data Models — Epic Systems Corporation, Feb 2025
 - **Certified Health Informatician Australasia (CHIA)** — Australasian Institute of Digital Health, Sep 2022
+- **Microsoft Certified: Azure Fundamentals** — Microsoft
 - **Applied Methods of Cost-Effectiveness Analysis** — Health Economics Research Centre, Oxford Population Health, University of Oxford, Sep 2023
 
 ---
@@ -217,6 +235,8 @@ Recruited 313 patients with a 95% recruitment rate to study how to communicate t
 ## Awards & Scholarships
 
 - Information Technology Postgraduate Scholarship — Monash University (2021)
+- Research Training Program Scholarship
+- Kizuna Project Scholarship
 - Dafydd Lewis Trust Scholarship — University of Melbourne
 - Western Chances Scholarship
 - Leaders in Communities Award — University of Melbourne
