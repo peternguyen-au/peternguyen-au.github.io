@@ -1,15 +1,14 @@
 # Site settings
 title: Peter Nguyen
-description: Software Engineer | Full Stack Developer | Problem Solver
+description: Clinical Data Analyst | Health Data Scientist | Analytics Consultant
 author: Peter Nguyen
-email: your.email@example.com
+email: peter.nguyen539@gmail.com
 url: "https://peternguyen-au.github.io"
 baseurl: ""
 
 # Social media links
 github_username: peternguyen-au
 linkedin_username: your-linkedin-username
-twitter_username: your-twitter-username
 
 # Build settings
 theme: jekyll-theme-cayman
