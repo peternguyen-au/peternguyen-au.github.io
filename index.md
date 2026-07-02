@@ -10,13 +10,17 @@ title: Home
 </div>
 
 # Peter Nguyen
-**Software Engineer | Full Stack Developer | Problem Solver**
+**Data Professional — Health Data Science · Clinical Informatics · Analytics Consulting**
+
+*Bridging complex problems and actionable insight*
 
 <div class="quick-links">
   <a href="#about">About</a> •
   <a href="#experience">Experience</a> •
   <a href="#skills">Skills</a> •
   <a href="#projects">Projects</a> •
+  <a href="#education">Education</a> •
+  <a href="#publications">Publications</a> •
   <a href="#blog">Blog</a> •
   <a href="#contact">Contact</a> •
   <a href="/assets/resume.pdf" class="pdf-link">📄 Download Resume</a>
@@ -26,113 +30,251 @@ title: Home
 
 ## About Me {#about}
 
-Welcome! I'm a passionate software engineer with expertise in building scalable web applications and solving complex technical challenges. I love creating elegant solutions to difficult problems and continuously learning new technologies.
+I'm a data professional with six years of experience across government, commercial, and hospital settings, now exploring the next chapter in digital health, healthtech, and beyond.
+
+My background spans biomedicine, population health data, analytics consulting (Quantium), national health statistics (Australian Institute of Health and Welfare), academic research (University of Melbourne), and clinical informatics (Murdoch Children's Research Institute / Royal Children's Hospital) — but the real strength I've developed is understanding how data flows through complex organisations and systems, from capture through to insight. I'm equally comfortable with data analysis, engineering, and science — what matters most is solving problems that have genuine impact.
+
+What drives me is the bridge between stakeholder needs and data reality: understanding workflows and constraints, breaking down complex problems, iterating with teams, and delivering solutions that actually land and get used.
+
+> 💡 **I'm currently taking some time to reset and build, before picking up something new from August 2026.** Always happy to connect — feel free to [reach out for a chat](#contact).
 
 **Quick Facts:**
-- 🎓 Computer Science Background
-- 💼 X+ years of professional experience
-- 🌍 Based in Australia
-- 🚀 Passionate about clean code and best practices
+- 🎓 Master of Science (Health Data Science), UNSW — 86 WAM (High Distinction)
+- 🏥 Epic-certified (Cogito, Caboodle, Clarity, Clinical Data Models)
+- 📜 Certified Health Informatician Australasia (CHIA) · Microsoft Certified: Azure Fundamentals
+- 📊 6 years across consulting, government, and clinical research
+- 🌏 Based in Melbourne, Australia
 
 ---
 
 ## Professional Experience {#experience}
 
-### Senior Software Engineer
-**[Company Name]** | *Month Year - Present*
+### Clinical Data Analyst, Centre for Health Analytics
+**Royal Children's Hospital & Murdoch Children's Research Institute, Parkville** | *Dec 2024 – Jun 2026*
 
-- Led development of [key project/feature] that improved [metric] by X%
-- Collaborated with cross-functional teams to deliver high-quality software solutions
-- Mentored junior developers and conducted code reviews
-- Technologies: [List technologies used]
+The Centre for Health Analytics is a partnership between RCH and MCRI providing data-analytics services to clinicians and researchers across the Parkville campus.
 
-**Key Achievements:**
-- Achieved [specific accomplishment]
-- Implemented [important feature/system]
-- Optimized [system] resulting in [measurable improvement]
+- Extracted and analysed clinical data from the Parkville Epic EMR and other source systems for secondary use in clinical care, quality improvement, and research
+- Designed, developed, reviewed, and optimised multi-table SQL queries against EMR data to answer cohort, outcome, and operational questions for clinicians and researchers
+- Built and maintained a suite of Epic EMR Reports, Epic Dashboards, and Power BI views that support clinical workflows, validate data capture, and close audit / improvement loops
+- Partnered with clinicians, researchers, and technical experts to map clinical workflows, document data-capture processes, and ensure appropriate use and interpretation of clinical data
+- Delivered in-person and online training to technical and non-technical stakeholders, presenting technical concepts in plain language
 
-### Software Engineer
-**[Company Name]** | *Month Year - Month Year*
+### Sales Operations & Capability Analyst — wiqConsumer (FMCG)
+**Quantium, Melbourne** | *Jan 2024 – Nov 2024*
 
-- Developed and maintained [type of applications]
-- Worked with [technologies/frameworks]
-- Contributed to [team achievements]
+- Enhanced sales tools, systems, and processes used by FMCG Sales and Client Partnership teams, supporting both immediate sales growth and longer-term competitive advantage
+- Monitored and analysed sales and revenue forecasts, providing actionable insights to senior consultants and executives that informed revenue-strategy refinements
 
-**Key Achievements:**
-- Built [specific feature/project]
-- Reduced [metric] by X%
-- Improved [system/process]
+### Analyst / Consultant — Health and Government
+**Quantium, Melbourne** | *Oct 2021 – Dec 2023*
 
-### [Previous Role]
-**[Company Name]** | *Month Year - Month Year*
+Quantium is one of Australia's largest data-science consultancies. Worked in the Health & Government practice on analytics, dashboarding, pipeline automation, and data strategy.
 
-Brief description of responsibilities and achievements.
+- Developed the data strategy and governance framework for a landmark precision-oncology initiative spanning multi-site clinical and laboratory sources (10–30 source systems, millions of patient-level records)
+- Automated mixed daily and near-real-time data pipelines for the Victorian Department of Health, handling high-volume health and COVID-19 data feeds during the state's response
+- Built and maintained a suite of 7+ Power BI dashboards used by department-wide executive and ministerial-office audiences for COVID-19 ICU / ward / bed-capacity decisions, workforce / PPE / supply-chain planning, and testing operations
+- Enhanced RShiny dashboards used by the Commonwealth Department of Health to investigate Medicare non-compliance
+- Led and mentored a team of 2–3 junior analysts; managed work planning, code review, and insights development, briefing Director / Branch-head-level sponsors throughout
+
+*Tech: R, SQL, Teradata, Azure DevOps, Azure (Synapse, Data Factory), Snowflake, Power BI, RShiny*
+
+### Senior Data Analyst — Screening Analysis and Monitoring Unit
+**Australian Institute of Health and Welfare (AIHW), Canberra** | *Aug 2020 – Oct 2021*
+
+Monitored and reported on Australia's three population-based cancer-screening programs (BreastScreen Australia, National Cervical Screening Program, National Bowel Cancer Screening Program) for the Commonwealth Department of Health.
+
+- Produced analytical insights and visualisations of cancer-screening data using SAS, SQL, and Tableau across population-level cohorts
+- Contributed to formal government reports and resolved numerous ad-hoc data requests from external stakeholders
+- Supported the data-quality and governance assessment for the National Cancer Screening Register
+- Prepared consultation papers and presentations distilling published reports into briefings for senior sponsors at the Commonwealth Department of Health
+
+### Data Analyst / Project Officer — Screening Analysis and Monitoring Unit
+**Australian Institute of Health and Welfare (AIHW), Canberra** | *Mar 2020 – Aug 2020*
+
+- Joined the Screening Analysis and Monitoring Unit supporting national cancer-screening reporting; promoted to Senior Data Analyst within six months
+
+### Research Assistant
+**Cancer in Primary Care Research Group, Melbourne Medical School, University of Melbourne** | *Jan 2019 – Mar 2020*
+
+- Developed educational materials for Victorian general practitioners on cancer prevention and management with Cancer Council Victoria and the Department of Health
+- Created resources and academic-detailing sessions to lift national bowel-cancer-screening participation in low-uptake areas
+- Co-led data collection and participant follow-up for a randomised controlled trial on aspirin for cardiovascular and cancer prevention
+- Advised on risk-communication graphics for aspirin's harms and benefits
+
+### Research Support Officer
+**Integrated Mental Health Research Group, Melbourne Medical School, University of Melbourne** | *Aug 2018 – Jan 2019*
+
+- Conducted participant follow-up, interviews, and data collection for two NHMRC- and Commonwealth-funded RCTs: *Link Me* (stepped mental-health care) and *Target D* (depression-management decision-support tool)
+
+### Earlier Roles
+
+- **Weployee — Weploy, Melbourne** (*Jan 2018 – Jan 2019*): supported start-ups and small businesses with data entry (Xero, Excel), booking systems, and event operations
+- **Pharmacy Assistant — Chemist Warehouse, Derrimut** (*Feb 2015 – Feb 2017*): customer-facing retail pharmacy role alongside full-time study
 
 ---
 
 ## Skills & Technologies {#skills}
 
-### Programming Languages
-- **Proficient:** Python, JavaScript, TypeScript, Java
-- **Familiar:** Go, Ruby, C++
+### Programming & Query Languages
+- R · Python · SQL (multi-table, optimisation) · Teradata · SAS · Stata · Bash · Git
 
-### Frontend Development
-- React, Vue.js, Angular
-- HTML5, CSS3, SASS/SCSS
-- Responsive Design, Accessibility
-- Modern JavaScript (ES6+)
+### Business Intelligence & Visualisation
+- Power BI · Tableau · RShiny · Epic EMR Reports & Dashboards
+- Excel (advanced) · matplotlib / ggplot2
 
-### Backend Development
-- Node.js, Express, Django, Flask
-- RESTful APIs, GraphQL
-- Microservices Architecture
-- Database Design (SQL & NoSQL)
+### Data Engineering & Cloud
+- Pipeline automation · Azure DevOps · version control · code review · agile delivery
+- Azure (Synapse, Data Factory, compute / storage) · Snowflake
 
-### DevOps & Tools
-- Docker, Kubernetes
-- CI/CD (GitHub Actions, Jenkins)
-- AWS, Azure, Google Cloud
-- Git, Linux/Unix
+### Statistics & Methods
+- Biostatistics · statistical modelling · machine learning · reinforcement learning
+- Survival analysis · decision-analytic modelling · cost-effectiveness analysis · bootstrapping · risk communication
 
-### Software Engineering
-- Agile/Scrum Methodologies
-- Test-Driven Development (TDD)
-- Design Patterns
-- System Design & Architecture
+### Health Informatics & Clinical Data
+- Parkville Epic EMR (Cogito, Caboodle, Clarity, Clinical Data Models)
+- Clinical workflow analysis · data governance · data strategy · real-world data assets
+- National Cancer Screening Register · cancer-screening monitoring · COVID-19 surveillance data
+
+### Sales Operations & CRM
+- Salesforce · Microsoft Dynamics 365 · HubSpot · Kantata
+
+### Stakeholder & Leadership
+- Mentoring junior analysts · work planning · executive briefing · government stakeholder management
+- Facilitation · training delivery (in-person and online) · technical writing
 
 ---
 
-## Projects & Portfolio {#projects}
+## Selected Projects {#projects}
 
-### Project Name One
-**[Technologies Used]** | [GitHub](https://github.com/yourusername/project) | [Live Demo](https://project-demo.com)
+### Victorian Department of Health — COVID-19 Executive Dashboard Suite
+**Quantium** · *R, SQL, Power BI, Azure DevOps, Azure Synapse / Data Factory* | *2021–2022*
 
-Description of the project, what problems it solves, and key features you implemented. Highlight interesting technical challenges you overcame.
+During Victoria's 2021–2022 COVID-19 response, executives and the ministerial office needed daily and intra-day visibility across hospital capacity, workforce, supply chains, and testing operations. I owned the engineering and visualisation of a suite of 7+ Power BI dashboards consumed by department-wide executive and ministerial-office audiences, built on mixed daily and near-real-time Azure data pipelines. The dashboards became part of the department's daily decision loop — used for ICU / ward / bed-capacity decisions, workforce / PPE / supply-chain planning, and testing / case-investigation operations — and the pipelines absorbed feed schema changes during the wave without halting executive briefings.
 
-**Key Features:**
-- Feature 1
-- Feature 2
-- Feature 3
+### Precision-Oncology Data Strategy & Governance Framework
+**Quantium client engagement** · *Workshops, data-mapping, governance design* | *~2023*
 
-### Project Name Two
-**[Technologies Used]** | [GitHub](https://github.com/yourusername/project)
+Built the data strategy and governance framework for a landmark precision-oncology initiative spanning multi-site clinical and laboratory sources (10–30 source systems, millions of patient-level records). Facilitated workshops with clinicians, researchers, and Director / Branch-head sponsors to map current state, gaps, and future state for a scalable, secure real-world-data asset; produced the documented strategy that guided the downstream build.
 
-Another project description showcasing your skills and experience.
+### Medicare Non-Compliance RShiny Enhancement
+**Quantium / Commonwealth Department of Health**
 
-### Project Name Three
-**[Technologies Used]** | [GitHub](https://github.com/yourusername/project)
+Enhanced an RShiny analytics product used by the Commonwealth Department of Health to investigate Medicare non-compliance — improving query performance, extending case-triage views, and improving reproducibility of compliance investigations.
 
-A third project to demonstrate the breadth of your abilities.
+### National Cancer-Screening Monitoring & Reporting
+**AIHW** · *SAS, SQL, Tableau* | *2020–2021*
 
-### Open Source Contributions
+Produced national-program monitoring statistics for BreastScreen Australia, the National Cervical Screening Program, and the National Bowel Cancer Screening Program; contributed to formal government reports and supported the data-quality and governance assessment for the National Cancer Screening Register.
 
-Brief mention of any open source projects you've contributed to.
+### Reinforcement Learning for Exercise-Physiology Outcomes
+**UNSW MSc dissertation** · *Python, RL frameworks* | *2024–2025*
+
+Research dissertation applying reinforcement learning to improve exercise-physiology outcomes — model design, training, and evaluation against real-world health data, in the Centre for Big Data Research in Health.
+
+### The CRISP-A Study — Aspirin Risk-Communication (Honours)
+**University of Melbourne** · *Cross-sectional study, primary-care recruitment* | *2018*
+
+Explored the most effective methods for communicating the harms and benefits of aspirin as a risk-reducing medication for colorectal cancer in patients aged 50–70 attending general practice. Recruited 313 patients across 2 GP clinics in 6 weeks (95% recruitment rate). Produced two peer-reviewed articles, a university news article with 4,500+ views, and contributed to Cancer Council Victoria educational materials.
+
+---
+
+## Education {#education}
+
+### Master of Science — Health Data Science
+**Centre for Big Data Research in Health, Faculty of Medicine, UNSW** | *2021 – 2026 (completed May 2026)*
+
+- 86 WAM (High Distinction) across coursework in biostatistics, data management, statistical modelling, and machine learning
+- Dissertation: improving exercise-physiology outcomes through reinforcement learning
+
+### Doctor of Philosophy — Candidature
+**Department of General Practice, University of Melbourne** | *2019 – 2021*
+
+- Thesis topic: the failure to follow up abnormal test results associated with undiagnosed prevalent cancer in primary care
+- Supported by the Australian Research Training Program Scholarship, Fay Marles PhD Scholarship, and Margaret and Irene Stewardson Fund Scholarship
+- Withdrew from candidature to pursue a professional data career at AIHW; the systematic-review protocol was published as a conference abstract
+
+### Bachelor of Biomedicine (Degree with Honours)
+**Faculty of Medicine, Dentistry and Health Sciences, University of Melbourne** | *2015 – 2018*
+
+- Honours thesis (First Class): communication methods for aspirin's risks and benefits in colorectal-cancer prevention
+- Major: Neuroscience
+- Awards: Leaders in Communities Award · Dafydd Lewis Trust Scholarship · Western Chances Scholarship
+- International exchange: Chinese University of Hong Kong (2017)
+
+### Graduate Certificate of Data Science
+**Faculty of Information Technology, Monash University** | *2021 – 2022*
+
+- Foundational units in mathematics, Python programming, and SQL/databases (HD average)
+- Awarded the Information Technology Postgraduate Scholarship for academic achievement
+
+### Certifications & Continuing Education
+
+- **Epic certifications** — Cogito, Caboodle, Clarity, and Clinical Data Models — Epic Systems Corporation, Feb 2025
+- **Certified Health Informatician Australasia (CHIA)** — Australasian Institute of Digital Health, Sep 2022 ([verify](https://www.credly.com/badges/89a809b4-b213-44c3-9723-230caf918895/public_url))
+- **Microsoft Certified: Azure Fundamentals** — Microsoft, Jun 2021 ([verify](https://www.credly.com/badges/3a1634b0-dfd5-48b1-a4fe-595e86548d7a))
+- **Applied Methods of Cost-Effectiveness Analysis** — Health Economics Research Centre, Oxford Population Health, University of Oxford, Sep 2023
+
+---
+
+## Publications & Outputs {#publications}
+
+### Peer-Reviewed — First Author
+
+- **Nguyen P**, McIntosh J, Bickerstaffe A, Maddumarachchi S, Cummings KL, et al. Benefits and harms of aspirin to reduce colorectal cancer risk: a cross-sectional study of methods to communicate risk in primary care. *British Journal of General Practice*, 2019.
+
+### Conference Abstracts — First Author
+
+- **Nguyen P**, McIntosh J, Emery J. The prevalence of abnormal test results associated with undiagnosed prevalent cancer and their follow-up in Australian primary care: a secondary analysis of the NPS. *Asia-Pacific Journal of Clinical Oncology*, 2019; 15: 143–144.
+- **Nguyen P**, Reece J, McIntosh J, Emery J. The failure to follow up abnormal test results associated with undiagnosed prevalent cancer in primary care: a systematic review protocol. *Asia-Pacific Journal of Clinical Oncology*, 2019; 15: 143.
+
+### Peer-Reviewed — Co-Author
+
+- Reece JC, Neal EFG, **Nguyen P**, McIntosh JG, Emery JD. Delayed or failure to follow-up abnormal breast cancer screening mammograms in primary care: a systematic review. *BMC Cancer*, 2021; 21(1): 373.
+- Milton S, McIntosh J, Yogaparan T, Alphonse P, Saya S, et al. Clinicians' opinions on recommending aspirin to prevent colorectal cancer to Australians aged 50–70 years: a qualitative study. *BMJ Open*, 2021; 11(2): e042261.
+- Milton S, Macrae F, McIntosh JG, Saya S, Alphonse P, Yogaparan T, et al. Designing a decision aid for cancer prevention: a qualitative study. *Family Practice*, 2024; 41(3): 349–359.
+- Emery JD, **Nguyen P**, Minshall J, Cummings KL, Walker J. Chemoprevention: a new concept for cancer prevention in primary care. *Australian Journal of General Practice*, 2018; 47(12): 825–828.
+
+### Government Reports (Contributing Analyst)
+
+- Australian Institute of Health and Welfare. *National Bowel Cancer Screening Program: monitoring report 2020*. AIHW, 2020.
+- Australian Institute of Health and Welfare. *Cancer screening programs: quarterly data*. AIHW, 2020.
+
+---
+
+## Awards & Scholarships
+
+- Information Technology Postgraduate Scholarship — Monash University (2021)
+- Australian Research Training Program Scholarship (2019–2021)
+- Fay Marles PhD Scholarship — University of Melbourne (2019–2021)
+- Margaret and Irene Stewardson Fund Scholarship (2019–2021)
+- Ormond College Scholar (2017–2019) · Ormond College Graduate Academic Enrichment Grant (2018, 2019)
+- PC4 Travel Grant (2018)
+- Leaders in Communities Award — University of Melbourne (2017)
+- Hugh and Eugenie Johnston Scholarship (2017)
+- Dafydd Lewis Trust Scholarship — University of Melbourne (2015–2017)
+- Alexander Rushall Scholarship (2015)
+- Western Chances Scholarship (2012–2019)
+- Kizuna Project Scholarship — Japanese Government youth-exchange program (2012)
+
+---
+
+## Volunteering & Community
+
+- **Family Support Volunteer — The Royal Children's Hospital** (*2016 – 2019*): provided emotional support and comfort to patients and their families, assisting nurses and parents with the care of children and siblings — years before returning to the RCH campus professionally as a Clinical Data Analyst
+- **First Aider — St John Ambulance (Vic)** (*2015 – 2019*): performed advanced first aid at community events alongside other first aiders and health professionals
+- **Project Lead and Advisor — Enactus Melbourne** (*2018*)
+- **Event Volunteer — My Room Children's Cancer Charity**: supporting the Children's Cancer Centre at RCH and research through MCRI
+- **Schools in the Kitchen Volunteer — FareShare**: preparing free nutritious meals for the homeless and hungry in Melbourne
+- **House Build Volunteer — Habitat for Humanity International** (*2014*)
+- **Campaign Ambassador — The Global Poverty Project** (*2013*): Victorian Ambassador for the Vote to End Poverty campaign
+- **Australian Youth Representative — Kizuna Project, AFS Intercultural Programs** (*2012*): Japanese Government youth-exchange program supporting post-earthquake recovery understanding
 
 ---
 
 ## Blog {#blog}
 
-I occasionally write about software engineering, technology, and problem-solving. Here are my recent posts:
+I occasionally write about health data science, analytics, and problem-solving. Here are my recent posts:
 
 <div class="blog-list">
 {% for post in site.posts limit:5 %}
@@ -150,13 +292,12 @@ I occasionally write about software engineering, technology, and problem-solving
 
 ## Contact {#contact}
 
-I'm always interested in hearing about new opportunities, collaborations, or just chatting about technology!
+I'm always interested in hearing about new opportunities, collaborations, or just chatting about health data and analytics!
 
 **Get in Touch:**
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
-- 💼 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+- 📧 Email: [peter.nguyen539@gmail.com](mailto:peter.nguyen539@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/peternguyen2](https://www.linkedin.com/in/peternguyen2)
 - 🐙 GitHub: [github.com/peternguyen-au](https://github.com/peternguyen-au)
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
 
 ---
 
