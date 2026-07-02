@@ -136,6 +136,9 @@ Monitored and reported on Australia's three population-based cancer-screening pr
 - Clinical workflow analysis · data governance · data strategy · real-world data assets
 - National Cancer Screening Register · cancer-screening monitoring · COVID-19 surveillance data
 
+### Sales Operations & CRM
+- Salesforce · Microsoft Dynamics 365 · HubSpot · Kantata
+
 ### Stakeholder & Leadership
 - Mentoring junior analysts · work planning · executive briefing · government stakeholder management
 - Facilitation · training delivery (in-person and online) · technical writing
@@ -169,20 +172,27 @@ Produced national-program monitoring statistics for BreastScreen Australia, the 
 
 Research dissertation applying reinforcement learning to improve exercise-physiology outcomes — model design, training, and evaluation against real-world health data, in the Centre for Big Data Research in Health.
 
-### Aspirin Risk-Communication Study (Honours)
+### The CRISP-A Study — Aspirin Risk-Communication (Honours)
 **University of Melbourne** · *Cross-sectional study, primary-care recruitment* | *2018*
 
-Recruited 313 patients with a 95% recruitment rate to study how to communicate the risks and benefits of aspirin for colorectal-cancer prevention. Produced two peer-reviewed articles, a university news article with 4,500+ views, and contributed to Cancer Council Victoria educational materials.
+Explored the most effective methods for communicating the harms and benefits of aspirin as a risk-reducing medication for colorectal cancer in patients aged 50–70 attending general practice. Recruited 313 patients across 2 GP clinics in 6 weeks (95% recruitment rate). Produced two peer-reviewed articles, a university news article with 4,500+ views, and contributed to Cancer Council Victoria educational materials.
 
 ---
 
 ## Education {#education}
 
 ### Master of Science — Health Data Science
-**Centre for Big Data Research in Health, Faculty of Medicine, UNSW** | *2021 – 2025 (completed April 2025)*
+**Centre for Big Data Research in Health, Faculty of Medicine, UNSW** | *2021 – 2026 (completed May 2026)*
 
 - 86 WAM (High Distinction) across coursework in biostatistics, data management, statistical modelling, and machine learning
 - Dissertation: improving exercise-physiology outcomes through reinforcement learning
+
+### Doctor of Philosophy — Candidature
+**Department of General Practice, University of Melbourne** | *2019 – 2021*
+
+- Thesis topic: the failure to follow up abnormal test results associated with undiagnosed prevalent cancer in primary care
+- Supported by the Australian Research Training Program Scholarship, Fay Marles PhD Scholarship, and Margaret and Irene Stewardson Fund Scholarship
+- Withdrew from candidature to pursue a professional data career at AIHW; the systematic-review protocol was published as a conference abstract
 
 ### Bachelor of Biomedicine (Degree with Honours)
 **Faculty of Medicine, Dentistry and Health Sciences, University of Melbourne** | *2015 – 2018*
@@ -193,16 +203,16 @@ Recruited 313 patients with a 95% recruitment rate to study how to communicate t
 - International exchange: Chinese University of Hong Kong (2017)
 
 ### Graduate Certificate of Data Science
-**Faculty of Information Technology, Monash University** | *2021*
+**Faculty of Information Technology, Monash University** | *2021 – 2022*
 
-- Foundational Python programming, mathematics, and database management
+- Foundational units in mathematics, Python programming, and SQL/databases (HD average)
 - Awarded the Information Technology Postgraduate Scholarship for academic achievement
 
 ### Certifications & Continuing Education
 
 - **Epic certifications** — Cogito, Caboodle, Clarity, and Clinical Data Models — Epic Systems Corporation, Feb 2025
-- **Certified Health Informatician Australasia (CHIA)** — Australasian Institute of Digital Health, Sep 2022
-- **Microsoft Certified: Azure Fundamentals** — Microsoft
+- **Certified Health Informatician Australasia (CHIA)** — Australasian Institute of Digital Health, Sep 2022 ([verify](https://www.credly.com/badges/89a809b4-b213-44c3-9723-230caf918895/public_url))
+- **Microsoft Certified: Azure Fundamentals** — Microsoft, Jun 2021 ([verify](https://www.credly.com/badges/3a1634b0-dfd5-48b1-a4fe-595e86548d7a))
 - **Applied Methods of Cost-Effectiveness Analysis** — Health Economics Research Centre, Oxford Population Health, University of Oxford, Sep 2023
 
 ---
@@ -235,11 +245,30 @@ Recruited 313 patients with a 95% recruitment rate to study how to communicate t
 ## Awards & Scholarships
 
 - Information Technology Postgraduate Scholarship — Monash University (2021)
-- Research Training Program Scholarship
-- Kizuna Project Scholarship
-- Dafydd Lewis Trust Scholarship — University of Melbourne
-- Western Chances Scholarship
-- Leaders in Communities Award — University of Melbourne
+- Australian Research Training Program Scholarship (2019–2021)
+- Fay Marles PhD Scholarship — University of Melbourne (2019–2021)
+- Margaret and Irene Stewardson Fund Scholarship (2019–2021)
+- Ormond College Scholar (2017–2019) · Ormond College Graduate Academic Enrichment Grant (2018, 2019)
+- PC4 Travel Grant (2018)
+- Leaders in Communities Award — University of Melbourne (2017)
+- Hugh and Eugenie Johnston Scholarship (2017)
+- Dafydd Lewis Trust Scholarship — University of Melbourne (2015–2017)
+- Alexander Rushall Scholarship (2015)
+- Western Chances Scholarship (2012–2019)
+- Kizuna Project Scholarship — Japanese Government youth-exchange program (2012)
+
+---
+
+## Volunteering & Community
+
+- **Family Support Volunteer — The Royal Children's Hospital** (*2016 – 2019*): provided emotional support and comfort to patients and their families, assisting nurses and parents with the care of children and siblings — years before returning to the RCH campus professionally as a Clinical Data Analyst
+- **First Aider — St John Ambulance (Vic)** (*2015 – 2019*): performed advanced first aid at community events alongside other first aiders and health professionals
+- **Project Lead and Advisor — Enactus Melbourne** (*2018*)
+- **Event Volunteer — My Room Children's Cancer Charity**: supporting the Children's Cancer Centre at RCH and research through MCRI
+- **Schools in the Kitchen Volunteer — FareShare**: preparing free nutritious meals for the homeless and hungry in Melbourne
+- **House Build Volunteer — Habitat for Humanity International** (*2014*)
+- **Campaign Ambassador — The Global Poverty Project** (*2013*): Victorian Ambassador for the Vote to End Poverty campaign
+- **Australian Youth Representative — Kizuna Project, AFS Intercultural Programs** (*2012*): Japanese Government youth-exchange program supporting post-earthquake recovery understanding
 
 ---
 
