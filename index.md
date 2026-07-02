@@ -247,7 +247,7 @@ I'm always interested in hearing about new opportunities, collaborations, or jus
 
 **Get in Touch:**
 - 📧 Email: [peter.nguyen539@gmail.com](mailto:peter.nguyen539@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+- 💼 LinkedIn: [linkedin.com/in/peternguyen2](https://www.linkedin.com/in/peternguyen2)
 - 🐙 GitHub: [github.com/peternguyen-au](https://github.com/peternguyen-au)
 
 ---

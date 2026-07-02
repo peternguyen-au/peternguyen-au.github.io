@@ -44,7 +44,7 @@ Stay tuned for more content, and feel free to reach out if you have questions or
 
 ---
 
-*Thanks for reading! If you found this helpful, connect with me on [LinkedIn](https://linkedin.com/in/your-profile) or [GitHub](https://github.com/peternguyen-au).*
+*Thanks for reading! If you found this helpful, connect with me on [LinkedIn](https://www.linkedin.com/in/peternguyen2) or [GitHub](https://github.com/peternguyen-au).*
 
 <style>
 article {
